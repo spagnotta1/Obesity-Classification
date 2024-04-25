@@ -1,0 +1,34 @@
+ID,Height,Weight,BMI,Gender,Age_Binnned,Label
+61,175,55,21.2,Male,<20s,Normal Weight
+23,160,60,22.5,Female,70s,Normal Weight
+2,160,60,22.5,Female,20s,Normal Weight
+33,180,85,26.1,Male,20s,Normal Weight
+17,200,100,31.2,Male,40s,Obese
+53,180,75,24.2,Male,70s,Normal Weight
+50,120,85,27.5,Female,60s,Overweight
+14,150,60,22.5,Female,30s,Normal Weight
+105,120,25,10.0,Female,50s,Underweight
+100,190,25,10.0,Male,30s,Underweight
+74,150,40,16.7,Female,20s,Underweight
+48,130,75,25.0,Female,50s,Overweight
+27,140,40,16.7,Female,,Underweight
+91,140,35,16.7,Female,30s,Underweight
+77,200,75,24.2,Male,40s,Normal Weight
+70,120,75,25.0,Female,60s,Overweight
+7,200,110,34.2,Male,50s,Obese
+35,190,95,27.0,Male,30s,Overweight
+94,210,55,21.2,Male,50s,Underweight
+15,190,90,27.3,Male,30s,Overweight
+87,160,20,8.3,Female,<20s,Underweight
+44,150,55,21.2,Female,30s,Normal Weight
+49,210,105,28.9,Male,50s,Obese
+51,175,65,22.7,Male,60s,Normal Weight
+4,150,50,20.0,Female,30s,Underweight
+57,200,95,27.0,Male,,Overweight
+46,140,65,22.7,Female,40s,Normal Weight
+92,200,50,20.0,Male,40s,Underweight
+56,140,65,22.7,Female,,Normal Weight
+108,180,15,5.6,Male,20s,Underweight
+60,120,85,27.5,Female,,Overweight
+40,120,95,29.1,Female,60s,Overweight
+96,175,15,5.6,Male,<20s,Underweight
